@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+h1{
+    color: aqua;
+
+    text-align: center;
+
+    font-size: 55px;
+
+    font-weight: 100;
+
+    font-family: cursive;
+
+    text-transform: capitalize;
+
+    text-decoration: line-through double;
+}
